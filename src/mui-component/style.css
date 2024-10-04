@@ -1,0 +1,16 @@
+
+.netflix-bg{
+   background-size: cover;
+   height: 100vh;
+}
+.bg-2{
+    background: rgba(0,0,0,0.7);
+    height: 100vh;
+}
+.h4{
+    color:red;
+    text-shadow: 2px 2px black;
+    font-weight: 700;
+    font-style: italic;
+}
+

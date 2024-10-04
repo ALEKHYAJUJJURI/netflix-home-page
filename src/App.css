@@ -1,0 +1,206 @@
+
+.body{
+  background-size: cover;
+  height: 100vh;
+  
+ 
+}
+.bg-shade{
+  background-image: linear-gradient(#000,rgba(47, 46, 46, 0.733),#000 );
+  height: 100vh;
+  opacity: 0.899;
+}
+h1{
+  text-shadow: 1px 1px #9f9494;
+  font-size: 35px;
+}
+.headerr{
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.mid-text {
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.input-ele::placeholder {
+  color: #ffff;
+  opacity: 1; /* Firefox */
+}
+
+
+
+
+
+
+.award-ele{
+  font: normal normal 600 30px/110px Cormorant SC;
+  font-family: 'Poppins';
+  color: #FF3147;
+  text-transform: uppercase;
+  opacity: 1;
+
+}
+.dm-ele{
+  font: normal normal bold 60px/80px Cormorant SC;
+  text-transform: uppercase;
+  color: #000000;
+}
+.p-ele{
+  margin-top: 40px;
+  color: #000000;
+  font: normal normal normal 16px/30px Poppins;
+}
+.contact-btn{
+  width: 160px;
+  height: 50px;
+  background: #FF3147 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  border: 0;
+  color: #FFFFFF;
+  margin-top: 40px;
+}
+.home-bg-con{
+  margin-top: 100px;
+}
+
+
+.what-we-do-ele{
+  font: normal normal 600 24px/26px Cormorant SC;
+  color: #FF3147;
+  text-transform: uppercase;
+}
+.services-ele{
+  font: normal normal bold 45px/65px Cormorant SC;
+  text-transform: uppercase;
+}
+.image{
+  width: 100%;
+  height: 526px;
+  
+}
+.img-card{
+  width: 370px;
+  height: 526px;
+  background: #FF3147 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 0.86;
+}
+.web-ele{
+  color: #FFFFFF;
+}
+.p-ele2{
+  font: normal normal normal 16px/30px Poppins;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.read-btn{
+  width: 185px;
+  height: 50px;
+  border: 0;
+  border-radius: 2px;
+  font: normal normal 600 14px/26px Poppins;
+letter-spacing: 1.4px;
+}
+.read-btn a{
+  color: #FF3147;
+  text-decoration: none;
+  
+}
+.read-btn a img{
+  width: 40px;
+  padding-left: 7px;
+}
+.imgs-con{
+  gap: 30px;
+}
+
+
+
+.our-cards{
+  
+  font: normal normal medium 20px/80px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-weight: bold;
+}
+.our-cards2{
+  font: normal normal normal 16px/28px Poppins;
+  color: #000000;
+}
+
+
+.card3-head{
+  text-align: center;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+}
+.card3-head2{
+  text-align: center;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+.choose-images{
+  width: 75px;
+  
+}
+
+
+.experts-cards{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+width: 270px;
+height: 233px;
+}
+.exp-numbers{
+
+font: normal normal 300 60px/65px Poppins;
+
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+.exp-text{
+  font: normal normal 300 20px/80px Poppins;
+}
+
+.footer-bg{
+background-color: #FF3147;
+height: 310px;
+}
+.footer-para{
+  text-align: center;
+  font: normal normal normal 20px/34px Poppins;
+  letter-spacing: 0px;
+  
+  color: #000000;
+  opacity: 1;
+}
+.footer-jagannat{
+  text-align: center;
+font: normal normal bold 20px/34px Poppins;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+}
+.footer-jagannat span{
+  text-align: center;
+font: normal normal 300 20px/34px Poppins;
+letter-spacing: 0px;
+color: #808080;
+opacity: 1;
+}
+input[type="checkbox"] {
+  border:1px solid #FF3147; /* Example color: blue */
+}
+
