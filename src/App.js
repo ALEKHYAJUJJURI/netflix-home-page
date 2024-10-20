@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import bootstrap from 'bootstrap';
+
 import { Middle } from './middle';
 
 export default function App(){
