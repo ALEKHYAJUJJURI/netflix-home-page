@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netflix-home-page/static/css/main.9d641642.css",
+    "main.js": "/netflix-home-page/static/js/main.49a8c7f3.js",
+    "static/media/bootstrap-icons.woff?": "/netflix-home-page/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/netflix-home-page/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/netflix-home-page/index.html",
+    "main.9d641642.css.map": "/netflix-home-page/static/css/main.9d641642.css.map",
+    "main.49a8c7f3.js.map": "/netflix-home-page/static/js/main.49a8c7f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d641642.css",
+    "static/js/main.49a8c7f3.js"
+  ]
+}
